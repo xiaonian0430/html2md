@@ -1,4 +1,4 @@
-module github.com/TruthHun/html2md
+module github.com/xiaonian0430/html2md
 
 go 1.13
 
